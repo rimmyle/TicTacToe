@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by choosing a board size!
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
